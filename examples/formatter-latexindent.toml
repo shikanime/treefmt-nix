@@ -3,4 +3,4 @@
 command = "latexindent"
 excludes = []
 includes = ["*.tex", "*.sty", "*.cls", "*.bib", "*.cmh"]
-options = []
+options = ["--local", "/nix/store/j89lcgzdy9c6fjig4r84hg0is5hrf4m8-latexindentrc.yaml"]
